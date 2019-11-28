@@ -1,4 +1,4 @@
-package edu.salle.poo.ac3;
+package edu.salle.test;
 
 public class Transaction {
 
